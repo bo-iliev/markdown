@@ -3,7 +3,7 @@ import marked from 'marked';
 import './App.css';
 
 export default function App() {
-  const [markdown, setMarkdown] = useState('# Markdwon Editor');
+  const [markdown, setMarkdown] = useState('# Markdown Editor');
 
   function handleChange(e) {
     setMarkdown(e.target.value);
