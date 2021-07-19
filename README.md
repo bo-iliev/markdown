@@ -1,3 +1,3 @@
 # Introduction
 
-This is a markdown convertor
+This is a Markdown editor made with React
